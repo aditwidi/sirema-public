@@ -1,0 +1,12 @@
+.flex-equal-height {
+    display: flex;
+}
+
+.flex-equal-height>div {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-equal-height>div>.card {
+    flex-grow: 1;
+}

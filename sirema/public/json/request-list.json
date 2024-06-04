@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "nama_pengaju": "Aditya Widiyanto",
+            "bentuk_request": "Kepenulisan",
+            "judul_request": "Artikel Wisuda",
+            "email": "adit.widi@gmail.com",
+            "status": 3,
+            "deadline": "20-07-2023",
+            "progres": 3,
+            "avatar": ""
+        },
+        {
+            "id": 2,
+            "nama_pengaju": "Aditya Widiyanto",
+            "bentuk_request": "Liputan",
+            "judul_request": "Liputan Wisuda",
+            "email": "adit.widi@gmail.com",
+            "status": 2,
+            "deadline": "20-07-2023",
+            "progres": 1,
+            "avatar": ""
+        },
+        {
+            "id": 3,
+            "nama_pengaju": "Aditya Widiyanto",
+            "bentuk_request": "Editing",
+            "judul_request": "Video Wisuda Highlights",
+            "email": "adit.widi@gmail.com",
+            "status": 1,
+            "deadline": "20-07-2023",
+            "progres": 3,
+            "avatar": ""
+        },
+        {
+            "id": 4,
+            "nama_pengaju": "Aditya Widiyanto",
+            "bentuk_request": "Design",
+            "judul_request": "Wisuda Infographics",
+            "email": "adit.widi@gmail.com",
+            "status": 2,
+            "deadline": "20-07-2023",
+            "progres": 2,
+            "avatar": ""
+        },
+        {
+            "id": 5,
+            "nama_pengaju": "Aditya Widiyanto",
+            "bentuk_request": "Kepenulisan",
+            "judul_request": "Artikel Reorganisasi",
+            "email": "adit.widi@gmail.com",
+            "status": 1,
+            "deadline": "20-07-2023",
+            "progres": 3,
+            "avatar": ""
+        }
+    ]
+}
